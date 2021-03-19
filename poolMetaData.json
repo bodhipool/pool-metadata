@@ -3,5 +3,11 @@
 "description": " Enlightened ADA Staking",
 "ticker": "BODHI",
 "homepage": " https://bodhipool.com/",
-"twitter_handle": "BodhiPool"
+"info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Council Bluffs, Iowa",
+        "social": {
+            "twitter_handle": "BodhiPool"
+        }
 }
